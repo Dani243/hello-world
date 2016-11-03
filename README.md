@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This is my first test repository to know how it works.
